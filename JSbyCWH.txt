@@ -6,4 +6,5 @@
 
 lect wise notes: https://drive.google.com/drive/folders/1RcyvvOAxJtNc_mPLt9g-kTHIMUZ3uD8z
 
-lect 01: 
+lect 01: https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect01.js
+
