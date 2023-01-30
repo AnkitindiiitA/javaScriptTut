@@ -17,6 +17,7 @@ https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect03.js
 lect 04: Primitives and Objects in JavaScript 
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect04.js
 lect 05: JavaScript Chapter 1 - Practice Set
+https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect05.js
 
 
 
