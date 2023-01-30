@@ -12,5 +12,9 @@ lect 01: Introduction to javascript
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect01.js
 lect 02: Variables in JavaScript 
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect02.js
+lect 03: const, let and var in JavaScript 
+https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect03.js
+lect 04: Primitives and Objects in JavaScript 
+
 
 
