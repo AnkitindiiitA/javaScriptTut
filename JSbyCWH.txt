@@ -10,7 +10,7 @@ lect wise notes: https://drive.google.com/drive/folders/1RcyvvOAxJtNc_mPLt9g-kTH
 
 lect 01: Introduction to javascript
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect01.js
-
 lect 02: Variables in JavaScript 
+https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect02.js
 
 
