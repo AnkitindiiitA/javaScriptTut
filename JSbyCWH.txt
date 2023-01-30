@@ -19,4 +19,4 @@ https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect04.js
 lect 05: JavaScript Chapter 1 - Practice Set
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect05.js
 lect 06: JavaScript Operators and Expressions
-
+https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect06.js
