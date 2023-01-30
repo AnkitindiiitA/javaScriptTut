@@ -1,0 +1,9 @@
+// I used replit to write and run the code of java script
+
+//shortcut key:
+//ctrl+enter: to the the code
+//alt+shift+lowerarrow=copy the current line
+
+lect wise notes: https://drive.google.com/drive/folders/1RcyvvOAxJtNc_mPLt9g-kTHIMUZ3uD8z
+
+lect 01: 
