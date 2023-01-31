@@ -30,3 +30,5 @@ lect 10: While Loops in JavaScript
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect10.js
 lect 11: Functions in JavaScript
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect11.js
+lect 12: JavaScript Chapter 3 - Practice Set on Loops and Functions
+https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect12.js
