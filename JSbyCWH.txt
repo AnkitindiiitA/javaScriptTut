@@ -28,3 +28,5 @@ lect 09: For Loops in JavaScript
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect09.js
 lect 10: While Loops in JavaScript
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect10.js
+lect 11: Functions in JavaScript
+https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect11.js
