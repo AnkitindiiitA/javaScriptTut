@@ -22,3 +22,5 @@ lect 06: JavaScript Operators and Expressions
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect06.js
 lect 07: Conditional expressions in JavaScript
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect07.js
+lect 08: JavaScript Chapter 2 - Practice Set on Operators and Conditionals
+https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect08.js
