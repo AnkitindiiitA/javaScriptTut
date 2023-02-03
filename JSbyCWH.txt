@@ -36,3 +36,5 @@ lect 13: Introduction to Strings
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect13.js
 lect 14: JavaScript String Methods
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect14.js
+lect 15: Practice Set on Strings
+https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect15.js
