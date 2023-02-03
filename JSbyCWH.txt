@@ -34,3 +34,5 @@ lect 12: JavaScript Chapter 3 - Practice Set on Loops and Functions
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect12.js
 lect 13: Introduction to Strings
 https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect13.js
+lect 14: JavaScript String Methods
+https://github.com/AnkitindiiitA/javaScriptTut/blob/main/lect14.js
